@@ -1,0 +1,9 @@
+Using PAT? 
+git clone https://{{your_personal_access_token}}@github.com/{{user_name}}/{{repo_name}}.git
+git remote add origin https://{{your_personal_access_token}}@github.com/{{user_name}}/{{repo_name}}.git
+
+Using 2FA?
+git clone https://github.com/{{user_name}}/{{repo_name}}.git
+git remote add origin https://github.com/{{user_name}}/{{repo_name}}.git
+
+
